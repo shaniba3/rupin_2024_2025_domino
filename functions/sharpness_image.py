@@ -23,3 +23,6 @@ def change_sharpness_randomly(image_path):
         plt.axis('off')  # Hide the axes
         plt.title(f"Sharpness adjusted by {sharpness_factor:.2f}")
         plt.show()
+
+
+

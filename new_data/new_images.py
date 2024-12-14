@@ -18,7 +18,3 @@ def rotate_image_randomly(image_path):
         # Display the rotated image
         rotated_img.show()
         print(f"Image rotated by {rotation_angle} degrees.")
-
-
-# Usage example
-rotate_image_randomly('D:\\rupin_2024_2025_domino\\images\\20240926_210622.jpg')
